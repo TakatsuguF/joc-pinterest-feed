@@ -64,6 +64,13 @@ COUNTRIES = {
     "south-korea": "KRW",
     "new-zealand": "NZD",
     "ireland": "EUR",
+    # JOCの実客国だがPinterest人気上位ではない国（2026-07-08 実売データで追加）。
+    # Shopify注文の発送先実績: SG=7位/NO/HK/DK/IL 各10-38注文。
+    "singapore": "SGD",
+    "norway": "NOK",
+    "hong-kong": "HKD",
+    "denmark": "DKK",
+    "israel": "ILS",
 }
 
 # 小数を持たない通貨(整数で出す)
